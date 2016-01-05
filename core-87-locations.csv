@@ -1,0 +1,356 @@
+interface,name,lat,lon
+core-87-po40,,,
+core-87-po27,,,
+core-87-po22,,,
+core-87-po32,,,
+core-87-2-17,Part of an aggregated link.,,
+core-87-3-17,Part of an aggregated link.,,
+core-87-2-24,part of an aggregated link,,
+core-87-2-19,part of an aggregated link,,
+core-87-8-2,part of an aggregated link,,
+core-87-3-2,part of an aggregated link,,
+core-87-8-1,part of an aggregated link,,
+core-87-3-5,,,
+core-87-3-24,part of an aggregated link,,
+core-87-3-4,,,
+core-87-3-6,,,
+core-87-3-7,,,
+core-87-3-21,part of an aggregated link,,
+core-87-2-21,part of an aggregated link,,
+core-87-3-1,part of an aggregated link,,
+core-87-2-5,,,
+core-87-2-7,,,
+core-87-3-14,"Equad A-Wing, B-Wing, C-Wing, D-Wing, E-Wing, J-Wing, Andlinger Center contruction trailers (some portions)",,
+core-87-5-20,Lawrence Apartments (Buildings 8-14),40.333529745085,-74.65687021854
+core-87-4-6,"1981 Hall, Community Hall, Fischer Hall/Whitman, Hargadon Hall, Lauritzen Hall, Murley-Pivirotto Tower, South Baker Hall, Wendell Hall",40.3437931825012,-74.6578989490988
+core-87-po29,"Peretsman-Scully Hall, Princeton Neuroscience Institute",40.34362963430933,-74.65327075588199
+core-87-4-43,"Forbes College (Main), 99 Alexander St.",40.3421051157,-74.660797800336
+core-87-5-22,Lawrence Apartments (Buildings 1-7),40.333529745085,-74.65687021854
+core-87-4-13,"1967 Hall, 1976 Hall, Bogle Hall, Wilf Hall, Yoseloff Hall",40.3443070691214,-74.655615613702
+core-87-po30,Firestone Library,40.349628782438,-74.65728735707
+core-87-3-8,,,
+core-87-8-8,Firestone Library,40.349628782438,-74.65728735707
+core-87-6-21,Friend Center,40.35031032488,-74.652709813252
+core-87-po5,Lewis Science Library Data Center,,
+core-87-6-3,41 William St. (portions),,
+core-87-2-8,,,
+core-87-4-35,Scully Hall,40.343881159582,-74.65358701504701
+core-87-2-4,,,
+core-87-4-19,Holder Hall,40.348512301831,-74.661463913799
+core-87-4-38,Little Hall,40.346499595367,-74.659714454646
+core-87-3-16,"Peretsman-Scully Hall, Princeton Neuroscience Institute",40.34362963430933,-74.65327075588199
+core-87-11-6,Lewis Science Library Data Center,,
+core-87-11-2,Carl Icahn Lab,40.344274978939,-74.65319754248
+core-87-4-31,Bloomberg Hall,40.343402427435,-74.655856380136
+core-87-8-4,,,
+core-87-4-37,Spelman Hall,40.34461518081,-74.65931971116
+core-87-4-8,Old Graduate College,40.340711753556,-74.665245050055
+core-87-4-44,Forbes College Annex,40.3421051157,-74.660797800336
+core-87-2-10,,,
+core-87-2-13,Frick Laboratory,40.349201686055,-74.655247212253
+core-87-4-23,1903 Hall,40.346028801561,-74.657080558081
+core-87-2-16,"Peretsman-Scully Hall, Princeton Neuroscience Institute",40.34362963430933,-74.65327075588199
+core-87-4-10,"Blair Hall, Buyers Hall",40.347442500046,-74.661111573895
+core-87-4-2,,,
+core-87-4-9,New Graduate College,40.340977917952,-74.666391473257
+core-87-2-9,,,
+core-87-4-18,"Joline Hall, Campbell Hall, Richardson Hall Construction Trailers",40.3479512074135,-74.661747174709
+core-87-11-1,Lewis Science Library (except Data Center),,
+core-87-8-13,Andlinger Center for Energy and the Environment,,
+core-87-4-41,"1901 Hall, Laughlin Hall",,
+core-87-2-1,,,
+core-87-1-22,,,
+core-87-1-19,,,
+core-87-6-22,Frist Campus Center (new wing),40.346726594215,-74.655217216383
+core-87-4-20,1937 Hall,40.347312556540004,-74.655128487502
+core-87-5-14,Architecture School,,
+core-87-4-17,Witherspoon Hall,40.347393072365,-74.660161549529
+core-87-2-6,,,
+core-87-7-14,Wilcox Hall,40.344925006382,-74.656021435324
+core-87-4-34,1938 Hall,40.345086299114,-74.655381678915
+core-87-8-7,"Marx Hall, 1879 Hall",40.347932924758496,-74.6554330896005
+core-87-8-14,Lewis Thomas Lab,40.344917379302,-74.65378714336
+core-87-6-15,Jadwin Gym,40.343571369026,-74.648732127339
+core-87-4-7,Edwards Hall,40.347181055489,-74.659282659867
+core-87-4-24,1915 Hall,40.344713780636,-74.656913598724
+core-87-8-15,MacMillan,40.342367269705,-74.656857529297
+core-87-4-29,Walker Hall,40.34559455034,-74.656960559912
+core-87-11-3,Peyton Hall,40.346563648106,-74.651680476289
+core-87-4-36,Foulke Hall,40.346330450212,-74.660936815157
+core-87-5-21,Fine Hall,40.345728865589,-74.652406966834
+core-87-4-39,Henry Hall,40.345828360586,-74.660642387956
+core-87-6-9,Frist Campus Center (old wing),40.346726594215,-74.655217216383
+core-87-5-23,Wallace Hall,40.349187610858,-74.653533383714
+core-87-4-11,Cuyler Hall,40.345973298387,-74.657458407662
+core-87-4-32,Dodge-Osborne Hall,,
+core-87-4-22,Dod Hall,40.346798022243,-74.658633318398
+core-87-5-18,185 Nassau St.,40.350670373387,-74.654863133992
+core-87-2-11,,,
+core-87-8-12,"Jadwin Hall, McDonnell Hall",40.345120038835,-74.652156523789
+core-87-4-42,Pyne Hall,40.345391095598,-74.659597082183
+core-87-7-23,194 Nassau St.,40.351371086559,-74.655189086383
+core-87-8-6,Lewis Science Library Data Center,,
+core-87-3-12,,,
+core-87-6-23,Dillon Gym,40.3459624854535,-74.658863492555
+core-87-4-12,"2 Dickinson St., 8 Dickinson St., 11 Dickinson St., 15 Dickinson St., 16 Dickinson St., 24 Dickinson St., 35 University Pl., 45 University Pl., 27 Edwards Pl. 29 Edwards Pl. 31 Edwards Pl.",,
+core-87-8-9,"Guyot Hall, Moffett Lab, Schultz Lab",40.345761897147,-74.654514928406
+core-87-6-43,McCormick Hall,40.347295618321,-74.658124527152
+core-87-4-33,"1927 Hall, Clapp Hall",,
+core-87-1-4,,,
+core-87-4-30,"Patton Hall, Wright Hall",40.3454290783725,-74.6574644205225
+core-87-8-3,New South,40.342534390648495,-74.65848824716
+core-87-4-40,Lockhart Hall,40.34677145511,-74.661344714139
+core-87-4-27,1939 Hall,40.345333214434,-74.656460367664
+core-87-po4,200 Elm Drive (portions),40.34273019237,-74.657115896918
+core-87-6-37,Madison Hall,40.348506319004,-74.662250831638
+core-87-6-32,200 Elm Drive (portions),40.34273019237,-74.657115896918
+core-87-4-16,Hamilton Hall,40.348135430009,-74.662223542256
+core-87-5-13,Sherrerd Hall,40.349584836804,-74.652691065446
+core-87-po3,Connection is not direct; ,,
+core-87-6-1,Connection is not direct; ,,
+core-87-2-12,,,
+core-87-5-41,Wu Hall,40.344765537679,-74.656553731656
+core-87-5-1,Charter Club,40.348786815814,-74.650017459488
+core-87-4-21,Brown Hall,40.346413927484,-74.657864638064
+core-87-5-19,"East Pyne, Chancellor Green",40.349092604178,-74.658572085614
+core-87-po44,701 Carnegie,40.323765414359,-74.649265844797
+core-87-6-44,Corwin Hall,40.348913149429,-74.654337655533
+core-87-4-45,Cannon Club,40.347780578568,-74.653309939794
+core-87-6-5,Campus Club,40.347580073294,-74.65444918667
+core-87-6-14,221 Nassau St.,40.351471888427,-74.652968385912
+core-87-8-21,701 Carnegie,40.323765414359,-74.649265844797
+core-87-6-45,Jones Hall,40.346438362661,-74.655857388264
+core-87-5-2,Colonial Club,40.348871445461,-74.652810436091
+core-87-1-41,,,
+core-87-4-47,Tower Club,40.347690174693,-74.653918830563
+core-87-4-48,Cap and Gown Club,40.348357199229,-74.651040609462
+core-87-7-24,McCarter Theater,40.344165898853,-74.660550356895
+core-87-7-13,McCosh Hall,40.348373489028,-74.656341841663
+core-87-7-7,Woolworth Hall,,
+core-87-7-15,Hoyt Lab,40.34964490621,-74.65463370085
+core-87-5-34,Baker Rink,40.34285053346,-74.65781885063
+core-87-7-5,"Fisher Hall, Bendheim Hall",40.348583724352,-74.6541043735795
+core-87-5-3,Quadrangle Club,40.348015295961,-74.65267991114
+core-87-4-28,Gauss Hall,40.34510595634,-74.656640121775
+core-87-6-40,West College,40.348009984219,-74.659785134167
+core-87-8-11,MacLean House),40.349100402247,-74.660207651747
+core-87-5-4,Tiger Inn,40.3489602442,-74.652300680648
+core-87-5-7,Cloister Inn,40.348615383979,-74.650588896098
+core-87-5-24,Robertson Hall,40.348407080062,-74.654674659919
+core-87-5-45,"Chilled Water Plant, Co-Generation Plant",40.341865049739,-74.656577884477
+core-87-7-20,Chapel,40.34887258377,-74.656840642072
+core-87-po28,,,
+core-87-5-11,22 Chambers St.,40.34985506784,-74.663115767236
+core-87-5-36,DeNunzio Pool,40.343883164386,-74.647530558404
+core-87-1-1,,,
+core-87-1-23,The connection is not directly between ,,
+core-87-2-14,"Green Hall, 20 Washington Rd.",40.349791013631,-74.656167113552
+core-87-11-21,701 Carnegie,40.323765414359,-74.649265844797
+core-87-7-3,Aaron Burr Hall,40.350243468245,-74.656558778496
+core-87-5-43,Center for Jewish Life,40.346637376797,-74.653645079489
+core-87-5-6,Terrace Club,40.347184082311,-74.653898355366
+core-87-6-6,58 Prospect Ave.,40.349160512004,-74.651714674672
+core-87-7-16,West Garage,40.341708145925,-74.658095197568
+core-87-4-25,Feinberg Hall,40.345830634965,-74.656528474011
+core-87-6-20,"Equad - G-Wing, H-Wing, Von Neumann Hall, Andlinger Center contruction trailers (some portions)",40.350441343638,-74.649217284383
+core-87-3-18,Part of an aggregated link.,,
+core-87-5-40,179 Nassau Street,40.350625164104,-74.655692517499
+core-87-7-1,Connection is not direct; ,,
+core-87-6-12,36 University Pl.,40.34712842935,-74.66146334751
+core-87-6-34,306 Alexander St.,40.337003698728,-74.655922467831
+core-87-4-46,Ivy Club,40.348085419546,-74.652167465493
+core-87-7-29,34 Chambers St.,,
+core-87-5-33,"Princeton Stadium, Clarke Field",40.34609524835833,-74.64944626481034
+core-87-2-18,Part of an aggregated link.,,
+core-87-5-16,Bowen Hall,40.349486581789,-74.650319262195
+core-87-1-17,,,
+core-87-6-19,26 Prospect Ave.,40.348770521595,-74.653445112973
+core-87-7-8,Murray-Dodge Hall (Murray side),40.347980772523,-74.657874252694
+core-87-6-46,McCosh Health Center,40.346003449746,-74.655459301144
+core-87-5-12,"693 Alexander St., 755 Alexander St.",,
+core-87-5-5,Cottage Club,40.34826291929,-74.651708207312
+core-87-7-12,Dickinson Hall,40.348938494206,-74.65624804111
+core-87-4-26,171 Broadmead St.,40.347602330765,-74.644669153951
+core-87-7-11,228 Alexander St.,40.33923313591,-74.657605677523
+core-87-4-4,171 Broadmead St.,40.347602330765,-74.644669153951
+core-87-8-10,Nassau Hall,40.348701339074,-74.659300312941
+core-87-6-36,Stanhope Hall,40.348720140576,-74.660038300807
+core-87-6-29,Clio Hall,40.347652846197,-74.659113748002
+core-87-7-32,200 Elm Drive (portions),40.34273019237,-74.657115896918
+core-87-6-38,"Boathouse, Shea Rowing Center",40.339437310747,-74.650787818385
+core-87-7-19,Dillon Court,40.345178778899495,-74.658299809015
+core-87-1-45,,,
+core-87-po35,,,
+core-87-6-26,330 Alexander St.,40.336512347739,-74.655452231202
+core-87-7-10,Caldwell Field House,40.344344876059,-74.64831305372
+core-87-6-39,87 Prospect Ave.,40.348361429628,-74.648858562656
+core-87-1-13,,,
+core-87-2-3,,,
+core-87-5-30,Scheide Caldwell House,40.349511127028,-74.658535483177
+core-87-7-17,"41 William St. (portions), Charlton St. Electric Substation",,
+core-87-5-44,Mudd Library,40.349591817096,-74.652096154335
+core-87-3-3,,,
+core-87-3-9,,,
+core-87-po45,,,
+core-87-1-39,,,
+core-87-5-39,Elementary Particle Labs,,
+core-87-5-32,Prospect House,40.347097467128,-74.656632277866
+core-87-7-9,91 Prospect Ave.,40.349028821518,-74.649060569637
+core-87-6-13,199 Nassau St.,40.351123794641,-74.654209967695
+core-87-6-7,26 College Rd. West,,
+core-87-7-4,48 University Place,40.346520607176,-74.661163684427
+core-87-1-40,,,
+core-87-6-48,Part of an aggregated link.,,
+core-87-8-5,Eno Hall,40.345381401421,-74.65534128215
+core-87-5-8,Henry House,40.34939147922,-74.658946993421
+core-87-5-35,5 Ivy Lane,40.346796978809,-74.652997239804
+core-87-5-31,Alexander Hall,40.348370652928,-74.660634944313
+core-87-6-8,262 Alexander St.,40.338739901065,-74.657085732465
+core-87-6-33,169 Nassau St.,40.350559598895,-74.656083517716
+core-87-6-47,294 Alexander St.,40.337332748043,-74.656064067977
+core-87-6-4,71 University Place,40.345446483595,-74.660907525278
+core-87-5-38,Bobst Hall,40.348921384674,-74.649498446831
+core-87-8-23,part of an aggregated link.,,
+core-87-6-11,"Roberts Stadium, Cordish Family Pavilion",40.3419989454415,-74.6542182803695
+core-87-4-3,"600 Hibben Magie Rd., 751 Hibben Magie Rd., 102-128 Lakeside Rd., 150 Lakeside Rd., 200 Lakeside Rd., 202-210 Lakeside Rd., 351 Lemonick Court, 151 Taylor Court",,
+core-87-5-9,"Haaga House, West Windsor Maintenance Yard, West Windsor Solar Power Field",40.338124298585,-74.643878797813
+core-87-6-18,Whig Hall,40.347774151157,-74.658568050007
+core-87-7-48,Part of an aggregated link.,,
+core-87-6-16,"Fitzrandolph Observatory, trailers",40.345636821814,-74.645798922887
+core-87-11-23,part of an aggregated link.,,
+core-87-1-24,,,
+core-87-5-37,201 Nassau Street,40.35102799967,-74.654039908753
+core-87-1-15,,,
+core-87-1-16,,,
+core-87-1-14,,,
+core-87-1-12,,,
+core-87-1-18,,,
+core-87-6-10,Princeton Station,40.342112404729,-74.659007477088
+core-87-1-38,,,
+core-87-6-24,1952 Stadium,40.341205348894,-74.651951419656
+core-87-7-22,4 Mercer St.,,
+core-87-1-20,,,
+core-87-7-18,350 Alexander St.,,
+core-87-5-10,87 Prospect Ave. (NOC Setup Bench),,
+core-87-1-37,,,
+core-87-11-4,,,
+core-87-6-35,McCarter Theater (portions),,
+core-87-1-31,,,
+core-87-5-27,116 Prospect Ave.,40.349868115021,-74.648581534224
+core-87-1-21,,,
+core-87-6-31,35 Olden St. (portions),,
+core-87-po21,,,
+core-87-1-11,,,
+core-87-5-47,120 Prospect Ave.,,
+core-87-1-5,,,
+core-87-1-9,,,
+core-87-1-2,,,
+core-87-2-20,part of an aggregated link,,
+core-87-6-27,200 Elm Drive - Facilities Rack,40.34273019237,-74.657115896918
+core-87-1-10,,,
+core-87-1-6,,,
+core-87-1-30,,,
+core-87-1-29,,,
+core-87-1-28,,,
+core-87-3-20,part of an aggregated link,,
+core-87-1-3,,,
+core-87-1-8,,,
+core-87-1-7,,,
+core-87-po10,,,
+core-87-6-2,Part of an aggregated link.,,
+core-87-1-32,,,
+core-87-7-2,Part of an aggregated link.,,
+core-87-1-27,,,
+core-87-mgmt0,"Interface is virtual, floats to the physical mgmt port on which supervisor is presently active.",,
+core-87-5-42,Architectural Lab,,
+core-87-11-20,,,
+core-87-7-38,,,
+core-87-7-21,,,
+core-87-1-44,,,
+core-87-11-15,,,
+core-87-5-46,,,
+core-87-5-48,,,
+core-87-11-17,,,
+core-87-11-13,,,
+core-87-6-17,,,
+core-87-11-16,,,
+core-87-3-19,part of an aggregated link,,
+core-87-1-43,,,
+core-87-7-36,,,
+core-87-1-47,,,
+core-87-2-15,,,
+core-87-2-22,part of an aggregated link,,
+core-87-11-14,,,
+core-87-1-34,,,
+core-87-7-33,,,
+core-87-5-28,,,
+core-87-7-26,,,
+core-87-4-1,,,
+core-87-4-14,,,
+core-87-7-34,,,
+core-87-4-5,,,
+core-87-11-18,,,
+core-87-3-13,,,
+core-87-7-6,Murray-Dodge Hall (Dodge side),40.347980772523,-74.657874252694
+core-87-7-40,,,
+core-87-7-41,,,
+core-87-11-11,,,
+core-87-1-36,,,
+core-87-11-19,,,
+core-87-6-25,,,
+core-87-11-12,,,
+core-87-1-33,,,
+core-87-1-26,,,
+core-87-5-29,,,
+core-87-4-15,,,
+core-87-5-25,,,
+core-87-7-43,,,
+core-87-5-26,,,
+core-87-6-42,,,
+core-87-1-46,,,
+core-87-7-46,,,
+core-87-6-28,,,
+core-87-3-22,part of an aggregated link,,
+core-87-7-31,,,
+core-87-11-24,,,
+core-87-11-5,,,
+core-87-7-44,,,
+core-87-7-30,,,
+core-87-1-35,,,
+core-87-8-19,,,
+core-87-7-28,,,
+core-87-7-47,,,
+core-87-3-23,,,
+core-87-7-39,,,
+core-87-11-22,,,
+core-87-1-48,,,
+core-87-5-17,,,
+core-87-11-10,,,
+core-87-8-16,,,
+core-87-7-25,,,
+core-87-2-23,,,
+core-87-1-42,,,
+core-87-7-37,,,
+core-87-8-22,,,
+core-87-7-35,,,
+core-87-6-30,,,
+core-87-3-10,,,
+core-87-7-27,,,
+core-87-8-24,,,
+core-87-11-7,,,
+core-87-8-17,,,
+core-87-11-8,,,
+core-87-1-25,,,
+core-87-11-9,,,
+core-87-8-20,,,
+core-87-8-18,,,
+core-87-5-15,,,
+core-87-3-15,,,
+core-87-6-41,,,
+core-87-7-45,,,
+core-87-7-42,,,
+core-87-3-11,,,
+core-87-po25,,,
+core-87-po2,,,
+core-87-po26,,,
+core-87-po34,,,
